@@ -13,3 +13,9 @@ initiates, maintains, and closes sessions between application processes
 Translates binary data into formats understandable by applications
 #### Layer7: Application Layer
 display data received from the network to users
+
+## Terms
+1. TLS: Transport Layer Security
+   frequently referred to by its predecessor's name 
+2. SSL: Secure Sockets Layer
+   it is a protocol that provides data integrity and privacy between two communicating applications
